@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 1200px;
+    width: 1500px;
+     background-color: black; 
+}
+.navbar{
+
+    height: 650px;
+    width: 50px;
+    border-radius: 3px;
+    border-color: white;
+    background-color: aqua;
+    margin-top: 20px;
+    font-size: 20px;
+    position: fixed;
+
+}
+
+.heading1{
+    font-size: 80px;
+    margin-left: 200px;
+    margin-top: 60px;
+    color: white;
+    
+ }
+
+.button{
+    display: flex;
+     margin-left: 300px;
+     margin-top: 80px;
+}
+.button .buttons1{
+
+    height: 50px;
+    width: 200px;
+}

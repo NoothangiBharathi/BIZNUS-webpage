@@ -148,9 +148,12 @@
 
 
 
+
 .main-heading{
     display: flex;
-}
+} 
+
+ 
 
 
 
@@ -520,7 +523,7 @@ margin-left: 10px;
 
 
 
- .heading-images16 {
+  .heading-images16 {
      display: flex;
  }
 
@@ -638,7 +641,7 @@ margin-left: 10px;
 
  
 
- .heading-images21 {
+ /*.heading-images21 {
      display: flex;
  }
 
@@ -867,4 +870,91 @@ margin-left: 10px;
                  }
 
 
-   
+    */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        .box4 {
+            height: 700px;
+            width: 1100px;
+            background-color: whitesmoke;
+            border-radius: 20px;
+            margin-top: 250px;
+            margin-left: 10px;
+    
+        }
+    
+        .heading4 img {
+            height: 300px;
+            width: 1100px;
+            margin-top: 70px;
+        }
+    
+        .heading4 h1 {
+            text-align: center;
+            margin-top: 30px;
+            color: maroon;
+        }
+    
+        .heading4 h2 {
+            text-align: center;
+            margin-top: 40px;
+            color: mediumslateblue;
+        }
+    
+        .heading4 h3 {
+            text-align: center;
+            color: mediumslateblue;
+            margin-top: 20px;
+        }
+    
+        .heading4 button {
+    
+            margin-left: 450px;
+            margin-top: 40px;
+            height: 40px;
+            width: 150px;
+            border-radius: 5px;
+            color: cadetblue;
+            background-color: darkgray;
+        }
+    
+        .heading4 button:hover {
+            background-color: gray;
+        }
+    
+        .box5 {
+            height: 700px;
+            width: 1200px;
+            background-color: whitesmoke;
+            border-radius: 20px;
+            margin-top: 150px;
+            /* margin-left: 10px; */
+    
+        }
+    
+        .box5 .box-heading {
+            display: flex;
+        }
